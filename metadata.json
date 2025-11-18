@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Channel Video Link Extractor",
+  "description": "An application to extract a complete list of video links from a specified YouTube channel using the official YouTube Data API.",
+  "requestFramePermissions": []
+}
